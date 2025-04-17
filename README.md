@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋, I'm Khalil </div>**  
+# **Hi 👋, I'm Khalil </div>**  
   
 
 A student at TH Ingolstadt 🏫
