@@ -1,4 +1,4 @@
-**<div align="center">Hi 👋, I'm Khalil </div>**  
+# **<div align="center">Hi 👋, I'm Khalil </div>**  
   
 
 <div align="center">A student at TH Ingolstadt 🏫</div>  
@@ -39,3 +39,4 @@
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
